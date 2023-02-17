@@ -1,0 +1,114 @@
+* {
+    box-sizing: border-box;
+}
+
+nav {
+    overflow: hidden;
+    width: 100%;
+    margin-top: 0%;
+}
+
+nav svg {
+    width: 70px;
+    height: 70px;
+}
+
+header nav ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+header nav li {
+    float: right;
+    color: #000;
+    margin: 10px;
+    padding: 10px;
+}
+
+header nav .logo {
+    float: left;
+}
+
+body {
+    color: #fff;
+    background-color: #000;
+}
+
+.opening {
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.opening button {
+    margin-top: 10px;
+    padding: 10px 20px;
+}
+
+.day-pass {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+hr {
+    color: #fff;
+    background-color: #fff;
+    padding-top: 2px;
+}
+
+.about {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.medias svg {
+    height: 50px;
+    width: 50px;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
+
+.images {
+    align-items: center;
+    justify-content: center;
+}
+
+.images img {
+    border-radius: 10%;
+}
+
+.images div p {
+    width: 22em;
+    margin-bottom: 25px;
+}
+
+.question {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.question button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.yelp-revs {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.yelp-revs button {
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+.ig {
+    margin-top: 25px;
+    padding: 10px 20px;
+}
+
+footer {
+    margin-bottom: 0%;
+}
